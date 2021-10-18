@@ -10,7 +10,7 @@ namespace ConsoleApp1
         {
             double a, b , c,d,e,f;
 
-            Console.WriteLine("Enter The First Value");
+            Console.WriteLine("Enter The First Value data");
 
             a = double.Parse(Console.ReadLine());
 
