@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            double a, b , c,d,e,f;
+            double a, b , c,d,e,f,y;
 
             Console.WriteLine("Enter The First Value");
 
